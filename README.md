@@ -72,7 +72,3 @@ https://github.com/Luciernaga2303/Fraud-Detection-Neural-Network/tree/Luciernaga
 ## Autor
 
 María Lucero Sánchez Ramírez
-
-## Autor
-
-María Lucero Sánchez Ramírez
