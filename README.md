@@ -65,7 +65,11 @@ https://dagshub.com/luceritosr/Fraud-Detection-Neural-Network/experiments
 
 ## Código
 
-Repositorio de GitHub:
+Repositorio de GitHub (main):
+
+https://github.com/Luciernaga2303/Fraud-Detection-Neural-Network
+
+Repositorio de GitHub (rama):
 
 https://github.com/Luciernaga2303/Fraud-Detection-Neural-Network/tree/Luciernaga2303-Fraud_Detection_NN
 
