@@ -69,10 +69,6 @@ Repositorio de GitHub (main):
 
 https://github.com/Luciernaga2303/Fraud-Detection-Neural-Network
 
-Repositorio de GitHub (rama):
-
-https://github.com/Luciernaga2303/Fraud-Detection-Neural-Network/tree/Luciernaga2303-Fraud_Detection_NN
-
 ## Autor
 
 María Lucero Sánchez Ramírez
