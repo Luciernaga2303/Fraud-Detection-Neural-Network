@@ -8,8 +8,8 @@ Este proyecto fue realizado para la materia de Redes Neuronales Artificiales. El
 
 Se utilizó el conjunto de datos **Credit Card Fraud Detection** de Kaggle:
 
-[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.
-kaggle.com/mlg-ulb/creditcardfraud)
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?select=creditcard.csv
 
 El dataset contiene transacciones bancarias etiquetadas como:
 
